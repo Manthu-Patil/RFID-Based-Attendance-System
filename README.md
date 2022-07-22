@@ -1,0 +1,2 @@
+# RFID-Based-Attendance-System
+Attendance in University is generally paper based which may sometimes cause errors. Taking attendance manually consumes more time. So, In this project we have designed RFID Based Attendance System using Arduino and RFID MFRC522 Module. In this system, each student is issued an RFID card as their id card and their attendance is marked when they touch their card to RFID reader.
